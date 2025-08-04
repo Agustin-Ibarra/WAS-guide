@@ -11,3 +11,8 @@ Amazon EC2 es un servicio de AWS que permite crear y gestionar servidores virtua
 - Compatible con Windows, Amazon Linux, Ubuntu, Red Hat, SUSE, Debian, etc.
 #### Zonas de disponibilidad y regiones:
 - Permite distribuir instancias geográficamente para alta disponibilidad y baja latencia.
+## EC2 interfaz
+<img src="/UI_aws/EC2-UI.png" alt="ui ec2"/>
+
+## EC2 crear instancia
+<img src="/UI_aws/EC2-UI-build-instance.png" alt="ui-ec2">
