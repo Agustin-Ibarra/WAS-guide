@@ -12,7 +12,37 @@ Amazon EC2 es un servicio de AWS que permite crear y gestionar servidores virtua
 #### Zonas de disponibilidad y regiones:
 - Permite distribuir instancias geográficamente para alta disponibilidad y baja latencia.
 ## EC2 interfaz
-<img src="/UI_aws/EC2-UI.png" alt="ui ec2"/>
+<img src="/UI_aws/EC2_UI.png" alt="ui ec2"/>
 
 ## EC2 crear instancia
-<img src="/UI_aws/EC2-UI-build-instance.png" alt="ui-ec2">
+<img src="/UI_aws/EC2_UI_crear_instancia.png" alt="ui-ec2">
+
+- Panel de instancia mas resumen del servicio
+<img src="/UI_aws/EC2_UI_instancias_panel.png.png" alt="ui ec2"/>
+
+- Seleccionar tipo de intancias
+<img src="/UI_aws/EC2_UI_instancias.png">
+
+- Panel de comparacion de diferentes instancias
+<img src="/UI_aws/EC2_UI_comparacion_intancias.png">
+
+- Generar par de claves
+permite conectarse a traves de SSH desde la pc a la instancia
+<img src="/UI_aws/EC2_UI_par_claves.png">
+
+- Configuracion de Red
+Habilitar trafico de https para deslpiegue de servidores
+<img src="/UI_aws/EC2_UI_redes.png">
+
+- Detalle de la instancia creada
+<img src="/UI_aws/EC2_UI_instancia_detalle.png">
+
+- Instancia funcionando
+<img src="/UI_aws/EC2_UI_instancia_detalle_1.png">
+<img src="/UI_aws/EC2_UI_instancia_detalle_2.png">
+
+- Conectaarse a la instancia
+<img src="/UI_aws/EC2_UI_instancia_coneccion.png">
+
+- Eliminar instancia
+<img src="/UI_aws/EC2_UI_intancian_eleminar.png">
